@@ -43,16 +43,6 @@ Desenvolvimento de uma interface de autenticação utilizando HTML e CSS, com fo
 
 ---
 
-### 🐍 Minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ### 📫 Como me encontrar
 
 - LinkedIn: https://www.linkedin.com/in/regina-martins-de-oliveira-6880531a0/
