@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Regina 👋</h1>
+<h1 align="center">Seja bem-vindo(a) ao meu GitHub! 💻</h1>
 
-<!--
-**reginamartins29/reginamartins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas (ADS) focada em <b>backend</b> e <b>IA</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Estudante de ADS, aprofundando conhecimentos em backend, banco de dados e Python
+- 💻 Gosto de transformar projetos acadêmicos em soluções reais, com foco em uso prático
+- 🤖 Interessada em Inteligência Artificial aplicada a sistemas web
+- 📚 Aprendendo Java para expandir o conhecimento em backend além do Python
+
+---
+
+### 🛠️ Projetos Desenvolvidos
+
+**🍽️ Sistema de Controle de Vendas — Restaurante**
+Desenvolvimento de um sistema em Python e MySQL para gerenciamento de produtos e controle de vendas, com cadastro de pratos e bebidas, registro de quantidades vendidas e geração de relatórios para acompanhamento das vendas. Também implementado em versão web (HTML, CSS e JavaScript).
+
+**💬 Chatbot para Restaurante**
+Desenvolvimento de um chatbot em Python para automatização do atendimento, fornecendo respostas rápidas e auxiliando na comunicação com clientes.
+
+**👥 Sistema de Cadastro de Clientes**
+Desenvolvimento de uma aplicação em Python para cadastro, consulta e gerenciamento de clientes, com foco na organização e manipulação de dados.
+
+**🔐 Tela de Login**
+Desenvolvimento de uma interface de autenticação utilizando HTML e CSS, com foco em estruturação, organização visual e experiência do usuário.
+
+---
+
+### 🧰 Tecnologias e ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+### 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📫 Como me encontrar
+
+- LinkedIn: https://www.linkedin.com/in/regina-martins-de-oliveira-6880531a0/
+- E-mail: re.martins.oliveira2010@gmail.com
+
+---
+
+<p align="center">
+  <i>Sempre aprendendo e construindo algo novo 🚀</i>
+</p>
